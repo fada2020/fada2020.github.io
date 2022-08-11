@@ -50,7 +50,7 @@ linkedin_username: ju-hyeok-48750b193
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: ![alt text](/images/simpson.jpg)
+about_profile_image: /images/simpson.jpg
 about_content: | # this will include new lines to allow paragraphs
   포트폴리오는 이곳을 참고해 주세요 [links](http://xn--o55b31v.kro.kr/) and highlight things <mark>like this</mark>.
 
