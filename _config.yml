@@ -112,7 +112,15 @@ content:
         link: https://hibricks.com
         link_text: 하이브릭스
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+           <ul>
+            <li>framework: spring boot 2.7.2, JPA Hibernate</li>
+            <li>language: JAVA 1.8, gradle 6.7.1, JavaScript</li>
+            <li>database: MariaDB</li>
+            <li>tool: IntelliJIDEA</li>
+            <li>library: jquery, QueryDsl 5.0</li>
+            <li>Server: AWS EC2</li>
+            <li>etc: html5, CSS3</li>
+          </ul>
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -124,6 +132,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           사회평론 출판사의 영어교육 전문 브랜드 Bricks의 간판 페이지 제작.
           php, mysql, codeigniter로 만들어진 기존의 페이지를 java, MariaDB, spring boot를 사용하여 리뉴얼 제작.
+          <ul>
+            <li>framework: spring boot 2.7.2, JPA Hibernate</li>
+            <li>language: JAVA 1.8, gradle 6.7.1, JavaScript</li>
+            <li>database: MariaDB</li>
+            <li>tool: IntelliJIDEA</li>
+            <li>library: jquery, QueryDsl 5.0</li>
+            <li>Server: AWS EC2</li>
+            <li>etc: html5, CSS3</li>
+          </ul>
   - title: Experience
     layout: list
     content:
