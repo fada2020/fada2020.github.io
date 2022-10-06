@@ -110,7 +110,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: hibricks converting
         link: https://hibricks.com
-        link_text: Link Text
+        link_text: 하이브릭스
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -122,9 +122,12 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any           
         title: ebricks renewal
         link: https://ebricks.co.kr
-        link_text: Link Text
+        link_text: 이브릭스
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
