@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 이혁주
-title: 이력서
+title: 웹 프로그래머
 email: leehyeokju1@gmail.com
 # email_title: Email (Email title override)
 phone: 010-5842-2831
@@ -109,7 +109,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: hibricks converting
-        link: [hibricks](https://hibricks.com)
+        link: https://hibricks.com
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -123,7 +123,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
         title: ebricks renewal
-        link: [ebricks](https://ebricks.co.kr)
+        link: https://ebricks.co.kr
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
