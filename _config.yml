@@ -106,20 +106,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border:   # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: hibricks converting
         link: https://hibricks.com
         link_text: 하이브릭스
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title:  # Title for the section
@@ -130,17 +121,9 @@ content:
         title: ebricks renewal
         link: https://ebricks.co.kr
         link_text: 이브릭스
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          사회평론 출판사의 영어교육 전문 브랜드 Bricks의 간판 페이지 제작.
+          php, mysql, codeigniter로 만들어진 기존의 페이지를 java, MariaDB, spring boot를 사용하여 리뉴얼 제작.
   - title: Experience
     layout: list
     content:
