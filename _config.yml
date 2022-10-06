@@ -112,8 +112,10 @@ content:
         link: https://hibricks.com
         link_text: 하이브릭스
         description: | # this will include new lines to allow paragraphs
+          담당: 개발, 단위테스트, 통합테스트, 배포, 유지보수
+          인원: 3명
             - framework: spring boot 2.7.2, JPA Hibernate
-            - language: JAVA 1.8, gradle 6.7.1, JavaScript
+            - language: JAVA 11, gradle 7.4.1, JavaScript
             - database: MariaDB
             - tool: IntelliJIDEA
             - library: jquery, QueryDsl 5.0
@@ -128,10 +130,53 @@ content:
         link: https://ebricks.co.kr
         link_text: 이브릭스
         description: | # this will include new lines to allow paragraphs
-          사회평론 출판사의 영어교육 전문 브랜드 Bricks의 간판 페이지 제작.
-          php, mysql, codeigniter로 만들어진 기존의 페이지를 java, MariaDB, spring boot를 사용하여 리뉴얼 제작.
-            - framework: spring boot 2.7.2, JPA Hibernate
+          php, mysql, codeigniter로 만들어진 기존의 사회평론 출판사의 영어교육 전문 브랜드 Bricks의 간판 페이지를 java, MariaDB, spring boot를 사용하여 리뉴얼 제작.
+          담당: 요건정의, 기본 설계, 상세 설계, 개발, 단위테스트, 통합테스트, 배포, 유지보수
+          인원: 3명
+            - framework: spring boot 2.4.1, JPA Hibernate
             - language: JAVA 1.8, gradle 6.7.1, JavaScript
+            - database: MariaDB
+            - tool: IntelliJIDEA
+            - library: jquery, QueryDsl 5.0
+            - Server: AWS EC2
+            - etc: html5, CSS3
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border:   # Value of `weak` will display a weak border below this item. # Any           
+        title: level test 개발
+        link: https://ebricks.co.kr/level/index
+        link_text: 이브릭스 레벨테스트
+        description: | # this will include new lines to allow paragraphs
+          java, MariaDB, spring boot를 사용하여 레벨테스트 페이지 제작.
+          사용자의 영어 실력에 따라서 사용자가 선택한 레벨의 영어 테스트를 받고 점수를 산출하는 페이지 개발
+          퍼블리싱 제외 1인 개발
+          담당: 요건정의, 기본 설계, 상세 설계, 개발, 단위테스트, 통합테스트, 배포, 유지보수
+          인원: 2명
+            - framework: spring boot 2.4.1, JPA Hibernate
+            - language: JAVA 1.8, gradle 6.7.1, JavaScript
+            - database: MariaDB
+            - tool: IntelliJIDEA
+            - library: jquery, QueryDsl 5.0
+            - Server: AWS EC2
+            - etc: html5, CSS3
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border:   # Value of `weak` will display a weak border below this item. # Any           
+        title: 이브릭스 통합로그인 개발
+        link: https://members.ebricks.co.kr/
+        link_text: 이브릭스 통합로그인
+        description: | # this will include new lines to allow paragraphs
+          여러 도메인의 사회평론 출판사의 영어교육 전문 브랜드 Bricks의 페이지를 통합로그인 할 수 있게 서브도메인을 나누고 도메인을 변경함
+          변경한 도메인으로 토큰 개발해서 기존 세션로그인 방식에서 쿠키의 토큰을 기반으로한 로그인 방식으로 변경
+          퍼블리싱 제외 1인 개발
+          담당: 요건정의, 기본 설계, 상세 설계, 개발, 단위테스트, 통합테스트, 배포, 유지보수
+          인원: 1명
+            - framework: spring boot 2.7.2, JPA Hibernate
+            - language: JAVA 11, gradle 7.4.1, JavaScript
             - database: MariaDB
             - tool: IntelliJIDEA
             - library: jquery, QueryDsl 5.0
