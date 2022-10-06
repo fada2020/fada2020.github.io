@@ -109,7 +109,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: hibrick.com converting
-        link: [links](https://hibricks.com/) (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: [links](https://hibricks.com/)
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
