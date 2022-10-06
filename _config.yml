@@ -67,7 +67,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   framework
 
-  ![alt text](https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white "object")![alt text](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white "object")![alt text](https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white "object")![alt text](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "object")![alt text](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white "object")![alt text](https://img.shields.io/badge/Hibernate JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+  ![alt text](https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white "object")![alt text](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white "object")![alt text](https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white "object")![alt text](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "object")![alt text](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white "object")![alt text](https://img.shields.io/badge/Hibernate JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white "object")
 
   tool
 
@@ -75,7 +75,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   os
 
-  ![alt text](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white "object")![alt text](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
+  ![alt text](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white "object")![alt text](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white "object")
 
   library
 
@@ -83,7 +83,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   cloud
 
-  ![alt text](https://img.shields.io/badge/Oracle cloud-F80000?style=for-the-badge&logo=Oracle&logoColor=white "object")![alt text](https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white">
+  ![alt text](https://img.shields.io/badge/Oracle cloud-F80000?style=for-the-badge&logo=Oracle&logoColor=white "object")![alt text](https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white "object")
 
   etc
   ![alt text](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white "object")![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white "object")
