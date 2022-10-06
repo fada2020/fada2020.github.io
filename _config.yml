@@ -112,6 +112,7 @@ content:
         link: https://hibricks.com
         link_text: 하이브릭스
         description: | # this will include new lines to allow paragraphs
+          C#, .net, mssql, ms-Server로 개발된 사이트를 java, spring boot, mariaDB, linux환경으로 컨버팅 
           담당: 개발, 단위테스트, 통합테스트, 배포, 유지보수
 
           인원: 3명
@@ -177,7 +178,7 @@ content:
           변경한 도메인으로 토큰 개발해서 기존 세션로그인 방식에서 쿠키의 토큰을 기반으로한 로그인 방식으로 변경
           퍼블리싱 제외 1인 개발
           담당: 요건정의, 기본 설계, 상세 설계, 개발, 단위테스트, 통합테스트, 배포, 유지보수
-          
+
           인원: 1명
             - framework: spring boot 2.7.2, JPA Hibernate
             - language: JAVA 11, gradle 7.4.1, JavaScript
